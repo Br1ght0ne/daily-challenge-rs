@@ -57,3 +57,7 @@ mod century;
 // Day 55 - Building a Pile of Cubes
 // https://dev.to/thepracticaldev/daily-challenge-55-building-a-pile-of-cubes-30on
 mod pile_of_cubes;
+
+// Day 56 - Coffee Shop
+// https://dev.to/thepracticaldev/daily-challenge-56-coffee-shop-2off
+mod coffee_shop;
