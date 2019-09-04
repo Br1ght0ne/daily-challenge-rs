@@ -61,3 +61,7 @@ mod pile_of_cubes;
 // Day 56 - Coffee Shop
 // https://dev.to/thepracticaldev/daily-challenge-56-coffee-shop-2off
 mod coffee_shop;
+
+// Day 57 - BMI Calculator
+// https://dev.to/thepracticaldev/daily-challenge-57-bmi-calculator-57fb
+mod bmi_calculator;
