@@ -65,3 +65,7 @@ mod day_56_coffee_shop;
 // Day 57 - BMI Calculator
 // https://dev.to/thepracticaldev/daily-challenge-57-bmi-calculator-57fb
 mod day_57_bmi_calculator;
+
+// Day 63 - Two Sum
+// https://dev.to/thepracticaldev/daily-challenge-63-two-sum-4j7i
+mod day_63_two_sum;
