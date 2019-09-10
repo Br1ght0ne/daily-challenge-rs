@@ -1,10 +1,15 @@
 fn likes(names: &[&str]) -> String {
-    match names {
-        [] => String::from("no one likes this"),
-        [a] => format!("{} likes this", a),
-        [a, b] => format!("{} and {} like this", a, b),
-        [a, b, c] => format!("{}, {} and {} like this", a, b, c),
-        [a, b, ..] => format!("{}, {} and {} others like this", a, b, names.len() - 2),
+    match names.len() {
+        0 => String::from("no one likes this"),
+        1 => format!("{} likes this", names[0]),
+        2 => format!("{} and {} like this", names[0], names[1]),
+        3 => format!("{}, {} and {} like this", names[0], names[1], names[2]),
+        len => format!(
+            "{}, {} and {} others like this",
+            names[0],
+            names[1],
+            len - 2
+        ),
     }
 }
 

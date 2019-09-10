@@ -1,6 +1,5 @@
 // Functions are only exercised in tests - this is fine.
 #![allow(dead_code)]
-#![feature(slice_patterns)]
 
 // dev.to daily challenge
 // solutions in Rust by Oleksii Filonenko
