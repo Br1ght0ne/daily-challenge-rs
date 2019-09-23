@@ -67,3 +67,7 @@ mod day_57_bmi_calculator;
 // Day 63 - Two Sum
 // https://dev.to/thepracticaldev/daily-challenge-63-two-sum-4j7i
 mod day_63_two_sum;
+
+// Day 73 - ATM Heist
+// https://dev.to/thepracticaldev/daily-challenge-73-atm-heist-1771
+mod day_73_atm_heist;
