@@ -68,6 +68,22 @@ mod day_57_bmi_calculator;
 // https://dev.to/thepracticaldev/daily-challenge-63-two-sum-4j7i
 mod day_63_two_sum;
 
+// Day 66 - Friend List
+// https://dev.to/thepracticaldev/daily-challenge-66-friend-list-40ak
+mod day_66_friend_list;
+
+// Day 68 - Grade Book
+// https://dev.to/thepracticaldev/daily-challenge-68-grade-book-25pm
+mod day_68_grade_book;
+
+// Day 71 - See you next Happy Year
+// https://dev.to/thepracticaldev/daily-challenge-71-see-you-next-happy-year-4698
+mod day_71_see_you_next_happy_year;
+
+// Day 72 - Matrix Shift
+// https://dev.to/thepracticaldev/daily-challenge-72-matrix-shift-2ab4
+mod day_72_matrix_shift;
+
 // Day 73 - ATM Heist
 // https://dev.to/thepracticaldev/daily-challenge-73-atm-heist-1771
 mod day_73_atm_heist;
